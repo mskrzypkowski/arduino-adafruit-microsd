@@ -8,7 +8,7 @@ Simple Arduino project for logging GPS data in GPX format. Data can be visualise
 - microSD card
 - two simple buttons
 - two ~7k Ohm resistors
-- two short cables
+- four short cables
 
 SDFat library is necessary - https://github.com/greiman/SdFat.
 
